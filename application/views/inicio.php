@@ -10,13 +10,7 @@
   <script src="<?php echo base_url(); ?>recursos/bootstrap.min.js"/></script>
 </head>
 <body>
-Pantalla inicial
-
-
-
-
-
-
-
+<p>Pantalla de bienvenida</p>
+<button type="button" onclick = "location='/TerraVerde/index.php/login'" class=" animated bounceInDown btn btn-outline-secondary btn-lg" >Continuar</button>
 </body>
 </html>

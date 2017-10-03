@@ -10,7 +10,7 @@
   <script src="<?php echo base_url(); ?>recursos/bootstrap.min.js"/></script>
 </head>
 <body>
-pantalla de login
-<button type="button" onclick = "location='/TerraVerde/index.php/menu'" class=" animated bounceInDown btn btn-outline-secondary btn-lg" >Continuar</button>
+menu...codeigniter cargara los bodys segun el usuario
+<button type="button" onclick = "location='/TerraVerde/index.php/login'" class=" animated bounceInDown btn btn-outline-secondary btn-lg" >Continuar</button>
 </body>
 </html>
